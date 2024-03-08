@@ -1,9 +1,11 @@
 Basic information about the source demo project
 
 Language: Javascript, Gherkin
+
 Tools: Playwright, Cucumber
+
 Framework: CodeceptJS BDD
-Design Pattern: Page Object Model(POM), Singleton Pattern
+
 Report: Allure report
 
 - 1 small features were selected to write test scripts: search. Access the link test/acceptance/features to see details of each scenario for each feature.
