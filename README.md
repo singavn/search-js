@@ -18,7 +18,7 @@ Report: Allure report
 - To run test suite, type "npm run test" in Terminal
   ![Report](https://github.com/singavn/search-js/blob/main/tests/acceptance/search1.JPG)
 - Report results after each run: Type "npm run report" in Terminal.
-- Automatically capture the screen when an error occurs and access report to view.
-- Automatically clean old report when run.
+- Automatically capture screenshot when an error occurs then user can view in report.
+- Automatically clean old report when run new suite.
 
 ![Report](https://github.com/singavn/search-js/blob/main/tests/acceptance/report.JPG)
