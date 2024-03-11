@@ -16,6 +16,9 @@ Report: Allure report
     - "npx playwright install" to install Playwright.
 - Access the path tests/acceptance/codecept.dev.env to select the environment
 - To run test suite, type "npm run test" in Terminal
+  ![Report](https://github.com/singavn/search-js/blob/main/tests/acceptance/search1.JPG)
 - Report results after each run: Type "npm run report" in Terminal.
 - Automatically capture the screen when an error occurs and access report to view.
 - Automatically clean old report when run.
+
+![Report](https://github.com/singavn/search-js/blob/main/tests/acceptance/report.JPG)
